@@ -1,2 +1,2 @@
 # Plotly-Challenge
-Data Visualizations and Dashboards - Plotly
+Data Visualizations and Dashboards - Plotly Homework
